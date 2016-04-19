@@ -1,10 +1,36 @@
 # Agile Testing
+
 ## Part I Introduction
+### Chapter 1 What is Agile Testing
+### Chapter 2 Ten Principles for Agile Testers
+
 ## Part II Organizational Challenges
+### Chapter 3 Cultural Challenges
+### Chapter 4 Team Logistics
+### Chapter 5 Transitioning Typical Processes
+
 ## Part III The Agile Testing Quadrants
+### Chapter 6 The Purpose of Testing
+### Chapter 7 Technology-Facing Tests that Support the Team
+### Chapter 8 Business-Facing Tests that Support the Team
+### Chapter 9 Toolkit for Business-Facing Tests that Support the Team
+### Chapter 10 Business-Facing Tests that Critique the Product
+### Chapter 11 Critiquing the Product Using Technology-Facing Tests
+### Chapter 12 Summary of Testing Quadrants
+
 ## Part IV Automation
+### Chapter 13 Why We Want to Automate Tests and What Holds Us Back
+### Chapter 14 An Agile Test Automation Strategy
+
 ## Part V An Iteration in the Life of a Tester
+### Chapter 15 Tester Activities in Release or Theme Planning
+### Chapter 16 Hit the Ground Running
+### Chapter 17 Iteration Kickoff
+### Chapter 18 Coding and Testing
+### Chapter 19 Wrap up the Iteration
+### Chapter 20 Successful Delivery
 ## Part VI Summary
+### Chapter 21 Key Success Factors
 
 # More Agile Testing
 ## PART I Introduction
